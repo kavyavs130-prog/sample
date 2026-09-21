@@ -1,0 +1,2 @@
+print("addition","5+6")
+print("substarction","8-4")
