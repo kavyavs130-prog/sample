@@ -1,2 +1,1 @@
-divide (6/3)
-helllo("newww")
+print("Modulo", 8 % 4)
